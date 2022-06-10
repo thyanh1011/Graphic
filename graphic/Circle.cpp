@@ -59,7 +59,7 @@ void Circle::KeyPr()
 			setSizeUp();
 		}
 
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Subtract))
 		{
 			setSizeDown();
 		}
